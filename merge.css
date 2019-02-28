@@ -1,0 +1,22 @@
+.one {
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+    background: red;
+}
+.two {
+    height: 200px;
+    width: 200px;
+    border: 5px solid yellow;
+    background: yellow;
+}
+.three {
+    height: 200px;
+    width: 200px;
+    border: 5px solid blue;
+    background: blue;
+}
+
+body {
+    padding: 50%;
+}
