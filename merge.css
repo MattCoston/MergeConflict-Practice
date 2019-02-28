@@ -1,14 +1,14 @@
 .one {
     height: 200px;
     width: 200px;
-    border: 5px solid red;
-    background: red;
+    border: 5px solid #98140E;
+    background: #98140E;
 }
 .two {
     height: 200px;
     width: 200px;
-    border: 5px solid green;
-    background: yellow;
+    border: 5px solid #F6FF6E;
+    background: #F6FF6E;
 }
 .three {
     height: 200px;
